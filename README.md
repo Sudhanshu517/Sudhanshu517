@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 How's it going?</h1>
+<h1 align="left">Hey 👋 Welcome to My Profile!</h1>
 
 ###
 
-<p align="left">I'm Sudhanshu, a passionate Web Developer.</p>
+<p align="left">I'm Sudhanshu — a passionate Web Developer who loves turning ideas into reality through code. 🚀</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Started coding in 2023<br>📚 Currently exploring DSA with C++.<br></p>
+<p align="left">✨ Started my coding journey in 2023<br>📚 Currently mastering Data Structures and Algorithms with C++<br>💡 Constantly exploring new tech and building cool projects!</p>
 
 ###
 
