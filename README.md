@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-My name is <strong>[Your Name]</strong> and I'm a Web Developer.
+My name is <strong>Sudhanshu</strong> and I'm a Web Developer.
 </p>
 
 ---
@@ -23,7 +23,7 @@ My name is <strong>[Your Name]</strong> and I'm a Web Developer.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="40" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" />
   <img src="https://avatars.githubusercontent.com/u/139268068?s=200&v=4" height="40" width="40" alt="ShadCN" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
@@ -43,4 +43,4 @@ My name is <strong>[Your Name]</strong> and I'm a Web Developer.
 ---
 
 ## 🚀 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu517&layout=compact&theme=dark)
