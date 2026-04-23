@@ -1,81 +1,77 @@
-<h1 align="left">Hey 👋 Welcome to My Profile!</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Sudhanshu;Full+Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</h1>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Delhi%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Internship-Yahweh%20Software-orange?style=flat-square&logo=react&logoColor=white" /> -->
+</p>
 
-<p align="left">I'm Sudhanshu — a passionate Web Developer who loves turning ideas into reality through code. 🚀</p>
+---
 
-###
+### 🚀 About Me
 
-<h2 align="left">About Me</h2>
+I am a passionate **Full Stack Developer** and a Computer Science student at **MSIT**. I specialize in building scalable backend systems and sleek frontend interfaces. Whether it's optimizing queries for a backend API or integrating AI for smart analytics, I love turning complex problems into clean, efficient code.
 
-###
+* 📚 **Currently:** Mastering DSA with C++ and exploring Cloud-Native architectures.
+* 💡 **Building:** Tools that leverage Generative AI for real-world impact.
+* 🛠️ **Past:** Tech Head at Prakriti (MSIT) and Backend Intern at Yahweh.
 
-<p align="left">✨ Started my coding journey in 2023<br>📚 Currently mastering Data Structures and Algorithms with C++<br>💡 Constantly exploring new tech and building cool projects!</p>
+---
 
-###
+### 🛠️ Tech Stack
 
-<h2 align="left">Tech Stack</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" height="40" width="40" alt="Mongoose" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40" width="40" alt="Redux" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://ui.shadcn.com/favicon.ico" height="40" width="40" alt="ShadCN" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,nodejs,express,mongodb,react,nextjs,redux,tailwind,bootstrap,git,github,py,java,postman,docker" /> 
+  <!-- can use aws later when done -->
 </div>
 
-###
+<br/>
 
-<h2 align="left">Connect with Me</h2>
-
-###
+<details>
+<summary><b>✨ Specialized Tools & UI Libraries</b></summary>
+<br/>
 <div align="left">
-  <a href="www.linkedin.com/in/sudhanshu-sharma-b046ba2b6">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+</details>
+
+---
+
+### 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu517&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu517&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshu517&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sudhanshu517/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sudhanshusharma517@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://your-portfolio.com](https://sudhanshu-portfolio-rho.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshu517&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sudhanshu517&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </div>
