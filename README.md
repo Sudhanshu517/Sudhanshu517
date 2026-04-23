@@ -65,7 +65,7 @@ I am a passionate **Full Stack Developer** and a Computer Science student at **M
   <a href="mailto:sudhanshusharma517@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://your-portfolio.com](https://sudhanshu-portfolio-rho.vercel.app/)">
+  <a href="https://your-portfolio.com](https://sudhanshu-portfolio-rho.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
